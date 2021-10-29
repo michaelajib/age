@@ -23,6 +23,11 @@ section .text{
 section .text h3 span{
   color: green;
 }
+.timer{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+ }
 .link{
   display: flex;
   justify-content: center;
